@@ -70,7 +70,7 @@ const About2Section = () => {
 			<p>I am a driven and enthusiastic Computer Science Engineering student with a profound interest in Data Science and a passion for finance, business, and entrepreneurship. The fusion of these diverse fields equips me with a unique perspective and a valuable skill set to tackle the complex challenges of the digital landscape.
 			</p>
 			<br />
-			<p>Beyond my academic pursuits, I find inspiration in extracurricular activities. Playing and watching football, immersing myself in video games, and capturing the world's beauty through photography recharge my batteries and fuel my motivation to explore new horizons.
+			<p>Beyond my academic pursuits, I find inspiration in extracurricular activities. Playing and watching football, immersing myself in video games, and capturing the world&apos;s beauty through photography recharge my batteries and fuel my motivation to explore new horizons.
 			</p>
 			<br />
 			<p>My ultimate dedication lies in expanding my horizons within the realm of technology. I am thrilled to delve into emerging technologies, craft innovative solutions, and contribute to the growth of businesses and organizations. Whether you are interested in my technical expertise, potential collaborations, or simply wish to share experiences, I am always eager to connect with like-minded individuals and engage in meaningful conversations.
