@@ -78,7 +78,7 @@ const AboutSection = () => {
         className={`about-2 leading-tight ${willChange ? "will-change-opacity" : ""
           }`}
       >
-        I'm passionate about AI, Machine Learning Algorithms and Blockchain Technology.{" "}
+        I&apos;m passionate about AI, Machine Learning Algorithms and Blockchain Technology.{" "}
       </span>
       <span
         className={`about-3 leading-tight ${willChange ? "will-change-opacity" : ""
