@@ -43,7 +43,7 @@ export const EMAIL = "supritkothari08@gmail.com";
 
 export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/supritkothari/",
-  github: "https://github.com/M4STERR0SH1",
+  github: "https://github.com/suprit-kothari",
   instagram: "https://www.instagram.com/supritk_01/",
   twitter: "https://twitter.com/shiniz07",
 };
