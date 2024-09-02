@@ -217,7 +217,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "- Started exploring AI and ML, So basically Data Science. <br><br> - Created another Image Encryption project but this time using Chaos Maps.  <br><br> - Learned Investing in Stocks and Cryptocurrencies. <br>",
+    title: "- Started exploring AI and ML, So basically Data Science. <br><br> - Created another Image Encryption project but this time using Chaos Maps.  <br>",
     size: ItemSize.SMALL,
     slideImage: "/timeline/P2P.png",
     shouldDrawLine: true,
@@ -272,7 +272,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "- Learned Basics of Programming. <br><br> - Learned about Cryptocurrencies. <br>",
+    title: "- Learned Basics of Programming. <br><br> - Learned Investing in Stocks and Cryptocurrencies. <br>",
     size: ItemSize.SMALL,
     slideImage: "/timeline/basic.png",
     shouldDrawLine: true,
