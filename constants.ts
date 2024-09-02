@@ -217,7 +217,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "- Started exploring AI and ML, So basically Data Science. <br><br> - Created another Image Encryption project but this time using Chaos Maps.  <br><br> - Created a Decentralized Benefit Transfer System using Blockchain and explored web3 applications. <br><br> - Learned Solidity and about Applications of Blockchain Tech. <br><br> - Learned Investing in Stocks and Cryptocurrencies. <br>",
+    title: "- Started exploring AI and ML, So basically Data Science. <br><br> - Created another Image Encryption project but this time using Chaos Maps.  <br><br> - Learned Investing in Stocks and Cryptocurrencies. <br>",
     size: ItemSize.SMALL,
     slideImage: "/timeline/P2P.png",
     shouldDrawLine: true,
