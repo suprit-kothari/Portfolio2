@@ -136,7 +136,7 @@ export enum ItemSize {
 export const TIMELINE: Array<TimelineNodeV2> = [
   {
     type: NodeTypes.CHECKPOINT,
-    title: "2023",
+    title: "2024",
     size: ItemSize.LARGE,
     shouldDrawLine: false,
     alignment: Branch.LEFT,
