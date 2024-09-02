@@ -171,16 +171,6 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "DBT Transfer System",
-    size: ItemSize.SMALL,
-    subtitle: "Direct benefit transfer system for farmers under Prof. Jothi KR, Computational Intelligence Dept, VIT Vellore",
-    // image: "/timeline/density.png",
-    // slideImage: "/timeline/density.png",
-    shouldDrawLine: true,
-    alignment: Branch.LEFT,
-  },
-  {
-    type: NodeTypes.CHECKPOINT,
     title: "Density Exchange",
     size: ItemSize.SMALL,
     subtitle: "Capital Market Analyst",
@@ -229,9 +219,6 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     type: NodeTypes.CHECKPOINT,
     title: "- Started exploring AI and ML, So basically Data Science. <br><br> - Created another Image Encryption project but this time using Chaos Maps.  <br><br> - Created a Decentralized Benefit Transfer System using Blockchain and explored web3 applications. <br><br> - Learned Solidity and about Applications of Blockchain Tech. <br><br> - Learned Investing in Stocks and Cryptocurrencies. <br>",
     size: ItemSize.SMALL,
-    // subtitle:
-    //   "Contributed to Server driven UI framework for powering experiences @ Flipkart Wholesale 😎",
-    // image: "/timeline/P2P.png",
     slideImage: "/timeline/P2P.png",
     shouldDrawLine: true,
     alignment: Branch.LEFT,
@@ -259,11 +246,8 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: " - Learned DSA and DAA. <br><br> - Learned Python, Pandas, Numpy, MATLAB and R.<br><br> - Started solving Object-Oriented Problems.<br>",
+    title: " - Learned DSA and DAA. <br><br> - Learned Python, Pandas, Numpy, MATLAB and R.<br>",
     size: ItemSize.SMALL,
-    // subtitle:
-    //   "Built solutions for employee engagement, productivity and performance 🎯",
-    // image: "/timeline/huminos.svg",
     slideImage: "/timeline/code.gif",
     shouldDrawLine: true,
     alignment: Branch.RIGHT,
@@ -272,9 +256,6 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     type: NodeTypes.CHECKPOINT,
     title: "- Learned about Cloud technologies. <br><br> - Created a project for Image Encryption using advanced AES technique. <br><br>",
     size: ItemSize.SMALL,
-    // subtitle:
-    //   "Built solutions for employee engagement, productivity and performance 🎯",
-    // image: "/timeline/huminos.svg",
     slideImage: "/timeline/cloud.png",
     shouldDrawLine: true,
     alignment: Branch.RIGHT,
@@ -293,9 +274,6 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     type: NodeTypes.CHECKPOINT,
     title: "- Learned Basics of Programming. <br><br> - Learned about Cryptocurrencies. <br>",
     size: ItemSize.SMALL,
-    // subtitle:
-    //   "Spent 4 years laying the foundation of Frontend Engineering, UI/UX, and Fitness!",
-    // image: "/timeline/akgec.svg",
     slideImage: "/timeline/basic.png",
     shouldDrawLine: true,
     alignment: Branch.LEFT,
@@ -304,9 +282,6 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     type: NodeTypes.CHECKPOINT,
     title: "- Started my Undergrad degree(B.Tech in CSE with specialization info sec) from VIT, Vellore. <br><br> - Graduated from MDS Public School, Udaipur",
     size: ItemSize.SMALL,
-    // subtitle:
-    //   "First job! 🥳 Product design and development for employee engagement chatbot suite for workplace by facebook",
-    // image: "/timeline/huminos.svg",
     slideImage: "/timeline/college.png",
     shouldDrawLine: true,
     alignment: Branch.LEFT,
