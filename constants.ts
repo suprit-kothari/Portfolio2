@@ -33,10 +33,10 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "I'm a Programmer",
-  "I'm a Tech Enthusiast",
-  "I'm a Web Developer",
   "I design and develop things",
+  "I'm a Product Enthusiast",
+  "I'm a Business Strategist",
+  "I build data-driven solutions",
 ];
 
 export const EMAIL = "supritkothari08@gmail.com";
