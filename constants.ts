@@ -136,7 +136,7 @@ export enum ItemSize {
 export const TIMELINE: Array<TimelineNodeV2> = [
   {
     type: NodeTypes.CHECKPOINT,
-    title: "2024",
+    title: "2025",
     size: ItemSize.LARGE,
     shouldDrawLine: false,
     alignment: Branch.LEFT,
@@ -150,7 +150,15 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     slideImage: "/timeline/zepto.png",
     shouldDrawLine: true,
     alignment: Branch.LEFT,
-  },  {
+  },  
+  {
+    type: NodeTypes.CHECKPOINT,
+    title: "2024",
+    size: ItemSize.LARGE,
+    shouldDrawLine: false,
+    alignment: Branch.LEFT,
+  },
+  {
     type: NodeTypes.CHECKPOINT,
     title: "Vikas Balaji Marmo",
     size: ItemSize.SMALL,
