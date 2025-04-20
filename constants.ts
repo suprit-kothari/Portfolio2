@@ -146,8 +146,8 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     title: "Zepto",
     size: ItemSize.SMALL,
     subtitle: "Category Management",
-    image: "/timeline/Zepto.png",
-    slideImage: "/timeline/Zepto.png",
+    image: "/timeline/zepto.png",
+    slideImage: "/timeline/zepto.png",
     shouldDrawLine: true,
     alignment: Branch.LEFT,
   },  {
